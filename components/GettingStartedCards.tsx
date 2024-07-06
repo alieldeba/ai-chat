@@ -20,7 +20,7 @@ function GettingStartedCards() {
               Tell me a fun fact that could make me laugh.
             </CardDescription>
             <CardFooter className="relative">
-              <ArrowRightSquare className="absolute -right-3 -bottom-8" />
+              <ArrowRightSquare className="absolute -right-3 -bottom-3 md:-bottom-8" />
             </CardFooter>
           </CardHeader>
         </Card>
